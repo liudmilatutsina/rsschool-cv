@@ -27,3 +27,28 @@ I've gained a lot of experience since i've came to the company, got acquainted w
 Apart from developing on my current position I want to try a brand new direction for me as Web Development has always attracted me. 
 Along with theoretical knowledge I'm eager to gain practical experience here. 
 I do not exclude in the future the change of the current role to the role of a Front-End Developer.
+
+## Tools:
+- JMeter
+- InteliJ IDEA/PyCharm
+- Grafana/Kibana/Dynatrace/Conviva
+- Git/Bitbucket
+- Jira/Confluence/Wiki
+- Chrome DevTools/Fiddler/Charles
+- CI/CD
+- GCP/AWS/Azure
+- Jenkins
+- Linux Administration
+
+## Programming Languages:
+- Python
+- Java
+- Groovy
+- HTML/CSS
+
+## Languages:
+- **Russian:** Native
+- **Belarusian:** Native
+- **English:** Advanced
+- **Polish:** Intermediate
+- **French:** Beginner
