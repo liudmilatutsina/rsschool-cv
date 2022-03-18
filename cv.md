@@ -53,3 +53,24 @@ I do not exclude in the future the change of the current role to the role of a F
 - **English:** Advanced
 - **Polish:** Intermediate
 - **French:** Beginner
+
+
+## Playing with digits from Codewars:
+```python
+# Given a positive integer n written as abcd... (a, b, c, d... being digits) and a positive integer p we want to find a positive integer k, if it exists, such that the sum of the digits of n taken to the successive powers of p is equal to k * n.
+
+def dig_pow(n, p):
+    list = [int(i) for i in str(n)]
+    digit_sum = 0
+    final = 0
+    for item in list:
+        digit_sum += int(pow(item,p))
+        p += 1
+        temp = digit_sum/n
+        if temp == int(temp):
+            final = int(temp)   
+    if final != 0:
+        return final
+    else:
+        return -1
+```
